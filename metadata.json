@@ -1,0 +1,6 @@
+{
+  "name": "ゴミ分別ゲーム",
+  "description": "様々な種類のゴミを正しい分別区分（可燃、不燃、資源、粗大、有害など）に仕分ける、楽しく学べる分別ゲームです。答え合わせは最後にまとめて行います。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
